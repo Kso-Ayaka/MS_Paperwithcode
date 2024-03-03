@@ -1,0 +1,1 @@
+bash scripts/run_standalone_train_gpu.sh /data/dataset/ImageNet/ILSVRC/Data/CLS-LOC/train config/resnet50_imagenet2012_GPU_Thor_config.yaml
